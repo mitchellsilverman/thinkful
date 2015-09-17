@@ -194,5 +194,5 @@ P {
 }
 
 td {
-    padding: 25px;
+    padding: 15px;
 }
